@@ -643,7 +643,6 @@ namespace makerbit {
    * @param action the trigger action
    * @param handler body code to run when the event is raised
    */
-  //% subcategory="RFID"
   //% blockId=makerbit_rfid_on_presented
   //% block="on RFID presented"
   //% weight=95
@@ -683,7 +682,6 @@ namespace makerbit {
   /**
    * Write a text string to an RFID. Max 36 characters.
    */
-  //% subcategory="RFID"
   //% blockId="makerbit_rfid_write_string"
   //% block="RFID write string $text"
   //% text.defl="Hello!"
@@ -695,7 +693,6 @@ namespace makerbit {
   /**
    * Read a text string from an RFID.
    */
-  //% subcategory="RFID"
   //% blockId="makerbit_rfid_read_string"
   //% block="RFID read string"
   //% weight=80
