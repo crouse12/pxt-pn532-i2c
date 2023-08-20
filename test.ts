@@ -1,0 +1,5 @@
+/**
+ * RFID tests
+ */
+
+makerbit.rfidGetUID();
