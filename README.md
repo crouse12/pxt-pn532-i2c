@@ -1,11 +1,11 @@
 # MakerBit RFID
-中文化：蔡佳倫
+
 [![Build Status](https://travis-ci.com/1010Technologies/pxt-makerbit-rfid.svg?branch=master)](https://travis-ci.com/1010Technologies/pxt-makerbit-rfid)
 
 ![MakerBit](icon.png "PN532 NFC")
 
 MakeCode extension for the PN532 NFC RFID module.
-
+中文化：蔡佳倫
 ## MakerBit Board
 
 The MakerBit connects to the BBC micro:bit to provide easy connections to a wide variety of sensors, actuators and other components.
