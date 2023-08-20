@@ -1,5 +1,5 @@
 # MakerBit RFID
-
+中文化：蔡佳倫
 [![Build Status](https://travis-ci.com/1010Technologies/pxt-makerbit-rfid.svg?branch=master)](https://travis-ci.com/1010Technologies/pxt-makerbit-rfid)
 
 ![MakerBit](icon.png "PN532 NFC")
